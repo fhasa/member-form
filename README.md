@@ -18,3 +18,4 @@ Use a gradient for the Save button background.
 If you have time, add an animation when selecting/unselecting an item. It can be fading, zooming in, then out ...etc.
 If you have any questions, please reply to this and ask.
 
+![image](https://user-images.githubusercontent.com/104664897/184350727-80ee30ce-cbe6-42f0-8d8a-1a20185f3727.png)
